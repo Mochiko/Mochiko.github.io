@@ -160,7 +160,7 @@
 	height: 55px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 216px;
+	margin-top: 208px;
 	left: 334px;
 }
 
@@ -197,7 +197,7 @@
 
 #u4077_img
 {
-	padding-left: 81px;
+	padding-left: 82px;
 	padding-right: 82px;
 }
 
@@ -219,9 +219,27 @@
 	padding-right: 92px;
 }
 
-#u4174
+#u4500
 {
 	z-index: 51;
+	width: 480px;
+	height: 360px;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+	top: 22px;
+	left: 22px;
+}
+
+#u4500_img
+{
+	padding-left: 116px;
+	padding-right: 116px;
+}
+
+#u4174
+{
+	z-index: 53;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -239,7 +257,7 @@
 
 #u4202
 {
-	z-index: 53;
+	z-index: 55;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -257,7 +275,7 @@
 
 #u4217
 {
-	z-index: 55;
+	z-index: 57;
 	width: 480px;
 	height: 360px;
 	background-color: transparent;
@@ -276,18 +294,18 @@
 #u4101
 {
 	position: absolute;
-	width: 340px;
-	left: 70px;
+	width: 410px;
+	left: 35px;
 }
 
 #u4101popup
 {
-	z-index: 57;
+	z-index: 59;
 }
 
 #u4106
 {
-	z-index: 58;
+	z-index: 60;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -305,7 +323,7 @@
 
 #u4162
 {
-	z-index: 60;
+	z-index: 62;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -322,9 +340,9 @@
 	margin-bottom: -14px;
 }
 
-#u4177
+#u4503
 {
-	z-index: 62;
+	z-index: 64;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -335,15 +353,9 @@
 	left: 140px;
 }
 
-#u4177_img
+#u4177
 {
-	margin-top: -21px;
-	margin-bottom: -21px;
-}
-
-#u4205
-{
-	z-index: 64;
+	z-index: 66;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -354,15 +366,15 @@
 	left: 210px;
 }
 
-#u4205_img
+#u4503_img,#u4177_img
 {
-	margin-top: -11px;
-	margin-bottom: -11px;
+	margin-top: -21px;
+	margin-bottom: -21px;
 }
 
-#u4220
+#u4205
 {
-	z-index: 66;
+	z-index: 68;
 	width: 60px;
 	height: 45px;
 	border-style: none;
@@ -373,12 +385,31 @@
 	left: 280px;
 }
 
-#u203.MuseMenuActive,#u4106:hover,#u4162:hover,#u4177:hover,#u4205:hover,#u4220:hover
+#u4205_img
+{
+	margin-top: -11px;
+	margin-bottom: -11px;
+}
+
+#u4220
+{
+	z-index: 70;
+	width: 60px;
+	height: 45px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 350px;
+}
+
+#u203.MuseMenuActive,#u4106:hover,#u4162:hover,#u4503:hover,#u4177:hover,#u4205:hover,#u4220:hover
 {
 	margin: 0px -10000px 0px 0px;
 }
 
-#u4106_clip,#u4162_clip,#u4177_clip,#u4205_clip,#u4220_clip
+#u4106_clip,#u4162_clip,#u4503_clip,#u4177_clip,#u4205_clip,#u4220_clip
 {
 	overflow: hidden;
 	width: 60px;
@@ -401,22 +432,10 @@
 
 #u4108popup
 {
-	z-index: 68;
+	z-index: 72;
 }
 
 #u4109-4
-{
-	z-index: 69;
-	width: 340px;
-	min-height: 22px;
-	color: #FFFFFF;
-	line-height: 20px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-right: -10000px;
-	position: relative;
-}
-
-#u4165-4
 {
 	z-index: 73;
 	width: 340px;
@@ -428,7 +447,7 @@
 	position: relative;
 }
 
-#u4180-4
+#u4165-4
 {
 	z-index: 77;
 	width: 340px;
@@ -440,7 +459,7 @@
 	position: relative;
 }
 
-#u4208-4
+#u4506-4
 {
 	z-index: 81;
 	width: 340px;
@@ -452,9 +471,33 @@
 	position: relative;
 }
 
-#u4223-4
+#u4180-4
 {
 	z-index: 85;
+	width: 340px;
+	min-height: 22px;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u4208-4
+{
+	z-index: 89;
+	width: 340px;
+	min-height: 22px;
+	color: #FFFFFF;
+	line-height: 20px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u4223-4
+{
+	z-index: 93;
 	width: 340px;
 	min-height: 22px;
 	color: #FFFFFF;
@@ -479,7 +522,7 @@
 
 #u4071-4popup
 {
-	z-index: 89;
+	z-index: 97;
 }
 
 #u4079-4
@@ -497,7 +540,7 @@
 
 #u4079-4popup
 {
-	z-index: 93;
+	z-index: 101;
 }
 
 #u4112-4
@@ -515,7 +558,7 @@
 
 #u4112-4popup
 {
-	z-index: 97;
+	z-index: 105;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -535,7 +578,7 @@
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 160px;
+	margin-top: 152px;
 	left: 502px;
 }
 
@@ -555,7 +598,6 @@
 
 body
 {
-	padding-top: 36px;
 	padding-bottom: 21px;
 }
 

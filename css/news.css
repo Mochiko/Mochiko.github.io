@@ -164,7 +164,7 @@
 	width: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 201px;
+	margin-top: 193px;
 	left: 300px;
 }
 
@@ -173,7 +173,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 167px;
+	margin-top: 159px;
 	left: 360px;
 }
 
@@ -227,7 +227,6 @@
 
 body
 {
-	padding-top: 36px;
 	padding-bottom: 21px;
 }
 

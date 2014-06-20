@@ -160,7 +160,7 @@
 	height: 100px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 241px;
+	margin-top: 233px;
 	left: 323px;
 }
 
@@ -760,7 +760,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 72px;
+	margin-top: 64px;
 	left: 487px;
 }
 
@@ -822,13 +822,12 @@
 	width: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 117px;
+	margin-top: 109px;
 	left: 736px;
 }
 
 body
 {
-	padding-top: 36px;
 	padding-bottom: 21px;
 }
 

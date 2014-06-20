@@ -2,16 +2,16 @@
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
     <file name="master_a-master.css" crc="68121951" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me"/>
-    <file name="contact.css" crc="13005745" ref="contact"/>
-    <file name="sonohoka.css" crc="3787705911" ref="sonohoka"/>
-    <file name="news.css" crc="242306421" ref="news"/>
-    <file name="neko.css" crc="4285312402" ref="neko"/>
-    <file name="index.css" crc="4212156890" ref="index"/>
-    <file name="illustration.css" crc="127796146" ref="illustration"/>
-    <file name="onnyanoko.css" crc="4133387902" ref="onnyanoko"/>
-    <file name="works.css" crc="16057406" ref="works"/>
-    <file name="kenonobitakokeshi.css" crc="399734521" ref="kenonobitakokeshi"/>
-    <file name="about-me.css" crc="3854142511" ref="about-me"/>
+    <file name="contact.css" crc="4282402946" ref="contact"/>
+    <file name="sonohoka.css" crc="4269445273" ref="sonohoka"/>
+    <file name="news.css" crc="274035442" ref="news"/>
+    <file name="neko.css" crc="4194228814" ref="neko"/>
+    <file name="index.css" crc="487470218" ref="index"/>
+    <file name="illustration.css" crc="50186321" ref="illustration"/>
+    <file name="onnyanoko.css" crc="3913286134" ref="onnyanoko"/>
+    <file name="works.css" crc="202624881" ref="works"/>
+    <file name="kenonobitakokeshi.css" crc="390014409" ref="kenonobitakokeshi"/>
+    <file name="about-me.css" crc="95019275" ref="about-me"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
@@ -25,7 +25,6 @@
     <file name="touchswipe.js" crc="4156838003" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
   </folder>
   <folder name="images">
-    <file name="kokeshinowadai.jpg" crc="103085570" ref="index"/>
     <file name="news.jpg" crc="305074462" ref="index"/>
     <file name="untitled.jpg" crc="506451865" ref="about-me"/>
     <file name="kokeshinowa2.jpg" crc="3830515986" ref="news"/>
@@ -139,15 +138,21 @@
     <file name="koke5660x72.jpg" crc="4103080691" ref="onnyanoko"/>
     <file name="koke6760x71.jpg" crc="4038526945" ref="onnyanoko"/>
     <file name="koke6660x50.jpg" crc="7456839" ref="onnyanoko"/>
+    <file name="kokeshinowa10.jpg" crc="351938855" ref="index"/>
+    <file name="koke62.jpg" crc="3788944765" ref="sonohoka"/>
+    <file name="koke6260x87.jpg" crc="105823402" ref="sonohoka"/>
+    <file name="koke60.jpg" crc="15601657" ref="neko"/>
+    <file name="koke61.jpg" crc="4096588228" ref="neko"/>
+    <file name="koke6160x96.jpg" crc="166827428" ref="neko"/>
   </folder>
-  <file name="index.html" crc="4155708649" mt="1403300843704" redirect="true"/>
-  <file name="about-me.html" crc="4266086502" mt="1403300843714" redirect="true"/>
-  <file name="news.html" crc="4241645538" mt="1403301008853" redirect="true"/>
-  <file name="illustration.html" crc="534145995" mt="1403302440643" redirect="true"/>
-  <file name="works.html" crc="3815232606" mt="1403301287760" redirect="true"/>
-  <file name="contact.html" crc="437031086" mt="1403300843759" redirect="true"/>
-  <file name="kenonobitakokeshi.html" crc="4101819583" mt="1403302440693" redirect="true"/>
-  <file name="sonohoka.html" crc="255170813" mt="1403302412035" redirect="true"/>
-  <file name="neko.html" crc="4060056363" mt="1403302713652" redirect="true"/>
-  <file name="onnyanoko.html" crc="352446424" mt="1403302713179" redirect="true"/>
+  <file name="index.html" crc="427125713" mt="1403304839566" redirect="true"/>
+  <file name="about-me.html" crc="4072676227" mt="1403304839831" redirect="true"/>
+  <file name="news.html" crc="4241645538" mt="1403304839845" redirect="true"/>
+  <file name="illustration.html" crc="534145995" mt="1403304839860" redirect="true"/>
+  <file name="works.html" crc="3815232606" mt="1403304839874" redirect="true"/>
+  <file name="contact.html" crc="437031086" mt="1403304839887" redirect="true"/>
+  <file name="kenonobitakokeshi.html" crc="4101819583" mt="1403304839903" redirect="true"/>
+  <file name="sonohoka.html" crc="99058618" mt="1403304839917" redirect="true"/>
+  <file name="neko.html" crc="266950738" mt="1403304839931" redirect="true"/>
+  <file name="onnyanoko.html" crc="352446424" mt="1403304839943" redirect="true"/>
 </manifest>

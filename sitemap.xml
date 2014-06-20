@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mochiko.co.jp/images/kokeshinowadai.jpg</loc>
-    <lastmod>2014-06-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mochiko.co.jp/images/news.jpg</loc>
     <lastmod>2014-06-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -680,6 +674,42 @@
   </url>
   <url>
     <loc>http://mochiko.co.jp/images/koke6660x50.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/kokeshinowa10.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/koke62.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/koke6260x87.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/koke60.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/koke61.jpg</loc>
+    <lastmod>2014-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mochiko.co.jp/images/koke6160x96.jpg</loc>
     <lastmod>2014-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

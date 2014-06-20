@@ -7,12 +7,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 612px;
+	min-height: 604px;
 	background-image: none;
 	border-style: none;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
-	padding-bottom: 37px;
+	padding-bottom: 45px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -163,7 +163,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 136px;
+	margin-top: 128px;
 	left: 307px;
 }
 
@@ -252,7 +252,6 @@
 
 body
 {
-	padding-top: 36px;
 	padding-bottom: 21px;
 }
 
