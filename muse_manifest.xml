@@ -3,9 +3,9 @@
     <file name="site_global.css" crc="3983832653"/>
     <file name="master_a-master.css" crc="68121951" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me"/>
     <file name="contact.css" crc="4282402946" ref="contact"/>
-    <file name="sonohoka.css" crc="504510085" ref="sonohoka"/>
-    <file name="news.css" crc="274035442" ref="news"/>
-    <file name="neko.css" crc="392157585" ref="neko"/>
+    <file name="sonohoka.css" crc="374073455" ref="sonohoka"/>
+    <file name="news.css" crc="3908730327" ref="news"/>
+    <file name="neko.css" crc="4052448606" ref="neko"/>
     <file name="index.css" crc="487470218" ref="index"/>
     <file name="illustration.css" crc="50186321" ref="illustration"/>
     <file name="onnyanoko.css" crc="536847892" ref="onnyanoko"/>
@@ -155,15 +155,16 @@
     <file name="koke7460x62.jpg" crc="4159336887" ref="sonohoka"/>
     <file name="koke73.jpg" crc="477056917" ref="neko"/>
     <file name="koke75.jpg" crc="3797143894" ref="onnyanoko"/>
+    <file name="hyoushi3.jpg" crc="165121488" ref="neko"/>
   </folder>
   <file name="index.html" crc="427125713" mt="1403304839566" redirect="true"/>
   <file name="about-me.html" crc="4072676227" mt="1403304839831" redirect="true"/>
-  <file name="news.html" crc="4241645538" mt="1403304839845" redirect="true"/>
+  <file name="news.html" crc="4293638847" mt="1403501269321" redirect="true"/>
   <file name="illustration.html" crc="534145995" mt="1403304839860" redirect="true"/>
   <file name="works.html" crc="297384156" mt="1403494014256" redirect="true"/>
   <file name="contact.html" crc="437031086" mt="1403304839887" redirect="true"/>
   <file name="kenonobitakokeshi.html" crc="4038512864" mt="1403494014798" redirect="true"/>
-  <file name="sonohoka.html" crc="4000016442" mt="1403493954253" redirect="true"/>
-  <file name="neko.html" crc="37602235" mt="1403494014056" redirect="true"/>
+  <file name="sonohoka.html" crc="180977881" mt="1403497895270" redirect="true"/>
+  <file name="neko.html" crc="4060570264" mt="1403501325586" redirect="true"/>
   <file name="onnyanoko.html" crc="71197752" mt="1403494014950" redirect="true"/>
 </manifest>
