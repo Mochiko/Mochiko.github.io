@@ -158,31 +158,13 @@
 	top: 26px;
 }
 
-#pu4360-4
+#pu2002-6
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 152px;
 	left: 398px;
-}
-
-#u4360-4
-{
-	z-index: 68;
-	width: 185px;
-	color: #51837F;
-	line-height: 30px;
-	font-size: 25px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#pu2002-6
-{
-	width: 0.01px;
-	margin-left: 4px;
-	position: relative;
 }
 
 #u2002-6
@@ -192,7 +174,8 @@
 	color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 70px;
+	margin-top: 100px;
+	left: 4px;
 }
 
 #u2002-4
@@ -231,8 +214,8 @@
 	font-weight: normal;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 129px;
-	left: 2px;
+	margin-top: 159px;
+	left: 6px;
 }
 
 #u2091-4
@@ -246,8 +229,8 @@
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 191px;
-	left: 4px;
+	margin-top: 221px;
+	left: 8px;
 }
 
 #u2092-4
@@ -259,7 +242,8 @@
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 255px;
+	margin-top: 285px;
+	left: 4px;
 }
 
 #u2093-3
@@ -270,8 +254,8 @@
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 265px;
-	left: 4px;
+	margin-top: 295px;
+	left: 8px;
 }
 
 #u3177-3
@@ -280,8 +264,8 @@
 	width: 5px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 94px;
-	left: 1px;
+	margin-top: 124px;
+	left: 5px;
 }
 
 #u3178-3
@@ -291,17 +275,30 @@
 	min-height: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 276px;
-	left: 4px;
+	margin-top: 306px;
+	left: 8px;
 }
 
-#u3181
+#u4360-4
 {
 	z-index: 66;
-	width: 250px;
+	width: 185px;
+	color: #51837F;
+	line-height: 30px;
+	font-size: 25px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	left: 218px;
+}
+
+#u4718
+{
+	z-index: 70;
+	width: 265px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 181px;
 }
 
 body

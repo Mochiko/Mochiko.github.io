@@ -7,12 +7,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 604px;
+	min-height: 579px;
 	background-image: none;
 	border-style: none;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
-	padding-bottom: 45px;
+	padding-bottom: 70px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -240,14 +240,28 @@
 	color: #464646;
 }
 
-#u1901
+#u4731
 {
 	z-index: 63;
-	width: 250px;
+	width: 172px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 226px;
-	left: 122px;
+	margin-top: 191px;
+	left: 167px;
+}
+
+#u4821
+{
+	z-index: 65;
+	width: 290px;
+	min-height: 28px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 398px;
+	left: 117px;
 }
 
 body

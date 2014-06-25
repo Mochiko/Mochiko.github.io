@@ -7,14 +7,29 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 573px;
+	min-height: 631px;
 	background-image: none;
 	border-style: none;
 	border-color: #7F7F7F;
 	background-color: #FFFFFF;
-	padding-bottom: 76px;
+	padding-bottom: 18px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#ppmenuu123
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 115px;
+	left: 78px;
+}
+
+#pmenuu123
+{
+	width: 0.01px;
+	position: relative;
 }
 
 #menuu123
@@ -22,8 +37,6 @@
 	z-index: 2;
 	width: 127px;
 	margin-right: -10000px;
-	margin-top: 115px;
-	left: 78px;
 }
 
 #u124
@@ -169,8 +182,8 @@
 	font-style: normal;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 143px;
-	left: 232px;
+	margin-top: 28px;
+	left: 154px;
 }
 
 #u224
@@ -185,16 +198,6 @@
 	font-weight: normal;
 }
 
-#u4488
-{
-	z-index: 48;
-	width: 137px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 181px;
-	left: 303px;
-}
-
 #u1810-3
 {
 	z-index: 43;
@@ -202,30 +205,86 @@
 	min-height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 153px;
-	left: 486px;
+	margin-top: 38px;
+	left: 408px;
 }
 
-#pu1948
+#u4687-3
+{
+	z-index: 50;
+	width: 5px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 126px;
+	left: 326px;
+}
+
+#u4756
+{
+	z-index: 53;
+	width: 250px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 201px;
+}
+
+#pu4788-3
+{
+	width: 0.01px;
+	margin-left: 32px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u4788-3
+{
+	z-index: 59;
+	width: 69px;
+	min-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4823
+{
+	z-index: 62;
+	width: 290px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 7px;
+}
+
+#pu4783
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 229px;
-	left: 591px;
+	margin-top: 322px;
+	left: 529px;
 }
 
-#u1948
+#u4783
 {
-	z-index: 46;
-	width: 202px;
+	z-index: 57;
+	width: 186px;
 	position: relative;
-	margin-right: -10000px;
+}
+
+#pu4493-4
+{
+	width: 0.01px;
+	margin-left: 29px;
+	position: relative;
 }
 
 #u4493-4
 {
-	z-index: 50;
+	z-index: 46;
 	width: 148px;
 	min-height: 19px;
 	color: #7F7F7F;
@@ -233,8 +292,16 @@
 	font-size: 11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 262px;
-	left: 62px;
+	margin-top: 131px;
+	left: 86px;
+}
+
+#u4778
+{
+	z-index: 55;
+	width: 250px;
+	position: relative;
+	margin-right: -10000px;
 }
 
 body
