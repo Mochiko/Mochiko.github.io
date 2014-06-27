@@ -17,7 +17,7 @@
 	margin-right: auto;
 }
 
-#ppmenuu123
+#pppu224-4
 {
 	width: 0.01px;
 	position: relative;
@@ -26,9 +26,52 @@
 	left: 78px;
 }
 
-#pmenuu123
+#ppu224-4
 {
 	width: 0.01px;
+	position: relative;
+}
+
+#pu224-4
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 134px;
+}
+
+#u224-4
+{
+	z-index: 39;
+	width: 32px;
+	min-height: 23px;
+	font-size: 32px;
+	line-height: 38px;
+	color: #000000;
+	font-style: normal;
+	margin-left: 21px;
+	position: relative;
+}
+
+#u224
+{
+	font-family: ヒラギノ明朝 Pro W3, Hiragino Mincho Pro, ＭＳ Ｐ明朝, MS PMincho, serif;
+	font-weight: bold;
+}
+
+#u224-2
+{
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: normal;
+}
+
+#u4941-3
+{
+	z-index: 67;
+	width: 29px;
+	min-height: 27px;
+	margin-top: 116px;
 	position: relative;
 }
 
@@ -171,33 +214,6 @@
 	top: 26px;
 }
 
-#u224-4
-{
-	z-index: 39;
-	width: 32px;
-	min-height: 23px;
-	font-size: 32px;
-	color: #000000;
-	line-height: 38px;
-	font-style: normal;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 28px;
-	left: 154px;
-}
-
-#u224
-{
-	font-family: ヒラギノ明朝 Pro W3, Hiragino Mincho Pro, ＭＳ Ｐ明朝, MS PMincho, serif;
-	font-weight: bold;
-}
-
-#u224-2
-{
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: normal;
-}
-
 #u1810-3
 {
 	z-index: 43;
@@ -229,11 +245,22 @@
 	left: 201px;
 }
 
+#u4891-4
+{
+	z-index: 63;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 199px;
+	left: 32px;
+}
+
 #pu4788-3
 {
 	width: 0.01px;
 	margin-left: 32px;
-	margin-top: 10px;
+	margin-top: 44px;
 	position: relative;
 }
 
@@ -264,7 +291,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 322px;
+	margin-top: 356px;
 	left: 529px;
 }
 
@@ -287,9 +314,9 @@
 	z-index: 46;
 	width: 148px;
 	min-height: 19px;
-	color: #7F7F7F;
-	line-height: 13px;
 	font-size: 11px;
+	line-height: 13px;
+	color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 131px;
