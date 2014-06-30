@@ -164,7 +164,7 @@
     <file name="kirie.png" crc="516833619" ref="neko"/>
     <file name="kirie60x85.png" crc="210798027" ref="neko"/>
     <file name="koke160x65.jpg" crc="4239537296" ref="onnyanoko"/>
-    <file name="u4891-4.png" crc="193801306" ref="index"/>
+    <file name="u4891-4.png" crc="47609432" ref="index"/>
     <file name="koke79.jpg" crc="107731137" ref="kenonobitakokeshi"/>
     <file name="koke7960x59.jpg" crc="57974077" ref="kenonobitakokeshi"/>
     <file name="koke77.jpg" crc="3964036751" ref="neko"/>
@@ -179,7 +179,7 @@
     <file name="koke82.jpg" crc="4088202584" ref="onnyanoko"/>
     <file name="koke860x80.jpg" crc="3861613551" ref="onnyanoko"/>
   </folder>
-  <file name="index.html" crc="3768129324" mt="1404090577027" redirect="true"/>
+  <file name="index.html" crc="3804245148" mt="1404092535982" redirect="true"/>
   <file name="about-me.html" crc="4072676227" mt="1403304839831" redirect="true"/>
   <file name="news.html" crc="3760147980" mt="1404090821774" redirect="true"/>
   <file name="illustration.html" crc="4248431431" mt="1403520841179" redirect="true"/>
