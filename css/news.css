@@ -168,7 +168,7 @@
 	left: 300px;
 }
 
-#pu1859-49
+#pu1859-61
 {
 	width: 0.01px;
 	position: relative;
@@ -177,7 +177,7 @@
 	left: 368px;
 }
 
-#u1859-49
+#u1859-61
 {
 	z-index: 42;
 	width: 367px;
@@ -185,7 +185,6 @@
 	text-align: center;
 	color: #464646;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u1859-3
@@ -206,25 +205,25 @@
 	line-height: 17px;
 }
 
-#u1859-5,#u1859-7,#u1859-9,#u1859-10,#u1859-12
+#u1859-6,#u1859-8,#u1859-10,#u1859-12,#u1859-14,#u1859-15,#u1859-17,#u1859-19,#u1859-21,#u1859-22,#u1859-24
 {
 	font-size: 12px;
 	line-height: 14px;
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 }
 
-#u1859-17,#u1859-25,#u1859-40
+#u1859-29,#u1859-37,#u1859-52
 {
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 }
 
-#u1859-14,#u1859-16,#u1859-20,#u1859-22,#u1859-24,#u1859-27,#u1859-29,#u1859-31,#u1859-33,#u1859-35,#u1859-37,#u1859-39,#u1859-45
+#u1859-26,#u1859-28,#u1859-32,#u1859-34,#u1859-36,#u1859-39,#u1859-41,#u1859-43,#u1859-45,#u1859-47,#u1859-49,#u1859-51,#u1859-57
 {
 	font-family: ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u1859-13,#u1859-15,#u1859-19,#u1859-21,#u1859-23,#u1859-26,#u1859-28,#u1859-30,#u1859-32,#u1859-34,#u1859-36,#u1859-38,#u1859-41,#u1859-42,#u1859-44
+#u1859-25,#u1859-27,#u1859-31,#u1859-33,#u1859-35,#u1859-38,#u1859-40,#u1859-42,#u1859-44,#u1859-46,#u1859-48,#u1859-50,#u1859-53,#u1859-54,#u1859-56
 {
 	font-size: 12px;
 	line-height: 14px;
@@ -232,12 +231,11 @@
 
 #u4771
 {
-	z-index: 91;
+	z-index: 103;
 	width: 250px;
+	margin-left: 59px;
+	margin-top: 27px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 322px;
-	left: 59px;
 }
 
 body
