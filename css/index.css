@@ -46,9 +46,9 @@
 	z-index: 39;
 	width: 32px;
 	min-height: 23px;
-	color: #000000;
 	line-height: 38px;
 	font-size: 32px;
+	color: #000000;
 	font-style: normal;
 	margin-left: 21px;
 	position: relative;
@@ -264,7 +264,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 126px;
-	left: 35px;
+	left: 39px;
 }
 
 #pu4788-3
@@ -325,8 +325,8 @@
 	z-index: 46;
 	width: 148px;
 	min-height: 19px;
-	color: #7F7F7F;
 	line-height: 13px;
+	color: #7F7F7F;
 	font-size: 11px;
 	position: relative;
 	margin-right: -10000px;
