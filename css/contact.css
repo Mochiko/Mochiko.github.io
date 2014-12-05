@@ -200,7 +200,7 @@
 	left: 42px;
 }
 
-#u1889-15
+#u1889-20
 {
 	z-index: 48;
 	width: 495px;
@@ -240,9 +240,14 @@
 	color: #464646;
 }
 
+#u1889-13,#u1889-16
+{
+	color: #524C4C;
+}
+
 #u4731
 {
-	z-index: 63;
+	z-index: 68;
 	width: 172px;
 	position: relative;
 	margin-right: -10000px;
@@ -252,7 +257,7 @@
 
 #u4821
 {
-	z-index: 65;
+	z-index: 70;
 	width: 306px;
 	min-height: 28px;
 	border-style: none;
