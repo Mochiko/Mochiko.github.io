@@ -1,23 +1,24 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="3983832653"/>
-    <file name="master_a-master.css" crc="4261042905" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me"/>
+    <file name="site_global.css" crc="4023935739"/>
+    <file name="master_a-master.css" crc="68121951" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me:名称未設定-12"/>
     <file name="contact.css" crc="420127713" ref="contact"/>
-    <file name="sonohoka.css" crc="492202806" ref="sonohoka"/>
-    <file name="news.css" crc="133541793" ref="news"/>
-    <file name="neko.css" crc="439798054" ref="neko"/>
-    <file name="index.css" crc="455186461" ref="index"/>
-    <file name="illustration.css" crc="3800139183" ref="illustration"/>
-    <file name="onnyanoko.css" crc="188013770" ref="onnyanoko"/>
-    <file name="works.css" crc="341938611" ref="works"/>
-    <file name="kenonobitakokeshi.css" crc="320289101" ref="kenonobitakokeshi"/>
+    <file name="sonohoka.css" crc="249705517" ref="sonohoka"/>
+    <file name="news.css" crc="3825965366" ref="news"/>
+    <file name="neko.css" crc="4104287731" ref="neko"/>
+    <file name="index.css" crc="101143866" ref="index"/>
+    <file name="illustration.css" crc="160147467" ref="illustration"/>
+    <file name="onnyanoko.css" crc="3772063903" ref="onnyanoko"/>
+    <file name="works.css" crc="4103111237" ref="works"/>
+    <file name="kenonobitakokeshi.css" crc="302942016" ref="kenonobitakokeshi"/>
     <file name="about-me.css" crc="95019275" ref="about-me"/>
+    <file name="_____-12.css" crc="83232042" ref="名称未設定-12"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
-    <file name="museutils.js" crc="4291592202" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
+    <file name="museutils.js" crc="4291592202" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
     <file name="pie.js" crc="3827607177" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
     <file name="webpro.js" crc="3903299128" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
     <file name="musewpslideshow.js" crc="138381373" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
@@ -97,13 +98,13 @@
     <file name="koke4160x68.jpg" crc="203236922" ref="sonohoka"/>
     <file name="koke3860x83.jpg" crc="4276356773" ref="sonohoka"/>
     <file name="koke24.jpg" crc="4194574261" ref="kenonobitakokeshi"/>
-    <file name="koke25.jpg" crc="458287919" ref="sonohoka:neko"/>
-    <file name="koke35.jpg" crc="408016802" ref="neko:onnyanoko"/>
-    <file name="koke42.jpg" crc="50855163" ref="sonohoka:neko"/>
-    <file name="koke44.jpg" crc="423828597" ref="sonohoka:neko"/>
-    <file name="koke37.jpg" crc="190182447" ref="sonohoka:neko"/>
-    <file name="koke45.jpg" crc="292947309" ref="neko:onnyanoko"/>
-    <file name="koke64.jpg" crc="4000169733" ref="neko:onnyanoko"/>
+    <file name="koke25.jpg" crc="4039643807" ref="sonohoka"/>
+    <file name="koke35.jpg" crc="408016802" ref="neko"/>
+    <file name="koke42.jpg" crc="32842945" ref="sonohoka"/>
+    <file name="koke44.jpg" crc="106834754" ref="sonohoka"/>
+    <file name="koke37.jpg" crc="241056290" ref="sonohoka"/>
+    <file name="koke45.jpg" crc="292947309" ref="neko"/>
+    <file name="koke64.jpg" crc="4000169733" ref="neko"/>
     <file name="koke65.jpg" crc="158730649" ref="kenonobitakokeshi"/>
     <file name="koke2460x65.jpg" crc="4106951843" ref="neko"/>
     <file name="koke2560x59.jpg" crc="4182921530" ref="neko"/>
@@ -117,14 +118,14 @@
     <file name="koke33.jpg" crc="125074754" ref="sonohoka"/>
     <file name="koke34.jpg" crc="3899015658" ref="onnyanoko"/>
     <file name="koke50.jpg" crc="3790866410" ref="onnyanoko"/>
-    <file name="koke51.jpg" crc="382483384" ref="neko:onnyanoko"/>
+    <file name="koke51.jpg" crc="382483384" ref="neko"/>
     <file name="onnanoko2.jpg" crc="5047968" ref="onnyanoko"/>
     <file name="onnanoko3.jpg" crc="3889017672" ref="onnyanoko"/>
     <file name="onnanoko.jpg" crc="400306118" ref="onnyanoko"/>
     <file name="onnnanoko4.jpg" crc="340003447" ref="onnyanoko"/>
     <file name="koke56.jpg" crc="3984537417" ref="kenonobitakokeshi"/>
     <file name="koke67.jpg" crc="374072797" ref="sonohoka"/>
-    <file name="koke66.jpg" crc="3828139378" ref="neko:onnyanoko"/>
+    <file name="koke66.jpg" crc="3828139378" ref="neko"/>
     <file name="koke3360x76.jpg" crc="219478281" ref="onnyanoko"/>
     <file name="koke5060x72.jpg" crc="4070766534" ref="onnyanoko"/>
     <file name="koke5160x72.jpg" crc="313303278" ref="onnyanoko"/>
@@ -138,7 +139,7 @@
     <file name="koke62.jpg" crc="424917156" ref="kenonobitakokeshi"/>
     <file name="koke6260x87.jpg" crc="105823402" ref="sonohoka"/>
     <file name="koke60.jpg" crc="4105098869" ref="kenonobitakokeshi"/>
-    <file name="koke61.jpg" crc="4096588228" ref="sonohoka:neko"/>
+    <file name="koke61.jpg" crc="392686945" ref="sonohoka"/>
     <file name="koke6160x96.jpg" crc="166827428" ref="neko"/>
     <file name="koke71.jpg" crc="3922537984" ref="works"/>
     <file name="koke7160x68.jpg" crc="88832905" ref="works"/>
@@ -189,7 +190,7 @@
     <file name="koke212.jpg" crc="4108970764" ref="neko"/>
     <file name="koke2160x71.jpg" crc="3877728268" ref="neko"/>
     <file name="koke232.jpg" crc="478274566" ref="onnyanoko"/>
-    <file name="u4891-5.png" crc="283362998" ref="index"/>
+    <file name="u4891-5.png" crc="152164813" ref="index"/>
     <file name="koke30.jpg" crc="3818682885" ref="sonohoka"/>
     <file name="koke2660x79.jpg" crc="479465452" ref="sonohoka"/>
     <file name="koke3160x73.jpg" crc="3962711149" ref="sonohoka"/>
@@ -198,7 +199,7 @@
     <file name="koke36.jpg" crc="4210682456" ref="kenonobitakokeshi"/>
     <file name="koke3260x84.jpg" crc="25502122" ref="kenonobitakokeshi"/>
     <file name="koke3660x66.jpg" crc="351908403" ref="kenonobitakokeshi"/>
-    <file name="koke63.jpg" crc="3793235972" ref="sonohoka:neko"/>
+    <file name="koke63.jpg" crc="432823279" ref="sonohoka"/>
     <file name="koke92.jpg" crc="4275334746" ref="sonohoka"/>
     <file name="koke152.jpg" crc="498593103" ref="sonohoka"/>
     <file name="koke132.jpg" crc="3873415700" ref="sonohoka"/>
@@ -224,7 +225,7 @@
     <file name="koke3460x59.jpg" crc="3894729717" ref="onnyanoko"/>
     <file name="koke3560x73.jpg" crc="210293022" ref="onnyanoko"/>
     <file name="koke3860x82.jpg" crc="4235148364" ref="onnyanoko"/>
-    <file name="u5695-4.png" crc="4199796080" ref="index"/>
+    <file name="u5695-4.png" crc="3885123754" ref="index"/>
     <file name="koke48.jpg" crc="4174810542" ref="kenonobitakokeshi"/>
     <file name="koke4860x76.jpg" crc="531735921" ref="kenonobitakokeshi"/>
     <file name="koke462.jpg" crc="4116080422" ref="sonohoka"/>
@@ -267,22 +268,61 @@
     <file name="983816_1502332676674464_2600606040029067068_n60x80.jpg" crc="3925656924" ref="sonohoka"/>
     <file name="10690035_1514302825477449_4525291740042724669_n60x97.jpg" crc="415614217" ref="sonohoka"/>
     <file name="1526290_1501346200106445_8920627611042839813_n.jpg" crc="4252984347" ref="onnyanoko"/>
-    <file name="201412-6.jpg" crc="27768642" ref="news"/>
+    <file name="201412-6.jpg" crc="197975490" ref="名称未設定-12"/>
     <file name="201412-2.jpg" crc="3817097841" ref="kenonobitakokeshi"/>
     <file name="201412-3.jpg" crc="266750266" ref="kenonobitakokeshi"/>
     <file name="201412-4.jpg" crc="3897162400" ref="kenonobitakokeshi"/>
     <file name="201412-5.jpg" crc="3791991898" ref="kenonobitakokeshi"/>
     <file name="201412-360x84.jpg" crc="508641757" ref="kenonobitakokeshi"/>
     <file name="201412-8.jpg" crc="3905800928" ref="neko"/>
+    <file name="u6510-17.png" crc="4100168629" ref="news"/>
+    <file name="koke21192x227.jpg" crc="95994125" ref="news"/>
+    <file name="20152-1.jpg" crc="116612420" ref="kenonobitakokeshi"/>
+    <file name="20152-3.jpg" crc="457665187" ref="kenonobitakokeshi"/>
+    <file name="20152-4.jpg" crc="3950950727" ref="kenonobitakokeshi"/>
+    <file name="20152-6.jpg" crc="466247190" ref="kenonobitakokeshi"/>
+    <file name="20152-9.jpg" crc="4116879033" ref="kenonobitakokeshi"/>
+    <file name="20152-10.jpg" crc="4087890254" ref="kenonobitakokeshi"/>
+    <file name="20152-12.jpg" crc="280414905" ref="kenonobitakokeshi"/>
+    <file name="20152-13.jpg" crc="4097776752" ref="kenonobitakokeshi"/>
+    <file name="20152-14.jpg" crc="4097812080" ref="kenonobitakokeshi"/>
+    <file name="20152-16.jpg" crc="4193734292" ref="kenonobitakokeshi"/>
+    <file name="20152-18.jpg" crc="67630996" ref="kenonobitakokeshi"/>
+    <file name="20152-460x60.jpg" crc="3949178374" ref="kenonobitakokeshi"/>
+    <file name="20152-5.jpg" crc="4145178406" ref="sonohoka"/>
+    <file name="20152-8.jpg" crc="3948655427" ref="sonohoka"/>
+    <file name="2015s.jpg" crc="54959914" ref="sonohoka"/>
+    <file name="2015s2.jpg" crc="4262265793" ref="sonohoka"/>
+    <file name="2015s3.jpg" crc="436886520" ref="sonohoka"/>
+    <file name="20152-560x60.jpg" crc="173956106" ref="sonohoka"/>
+    <file name="2015s260x97.jpg" crc="4028799193" ref="sonohoka"/>
+    <file name="2015s360x97.jpg" crc="7287365" ref="sonohoka"/>
+    <file name="koke252.jpg" crc="458287919" ref="neko"/>
+    <file name="koke422.jpg" crc="50855163" ref="neko"/>
+    <file name="koke442.jpg" crc="423828597" ref="neko"/>
+    <file name="koke372.jpg" crc="190182447" ref="neko"/>
+    <file name="koke612.jpg" crc="4096588228" ref="neko"/>
+    <file name="koke632.jpg" crc="3793235972" ref="neko"/>
+    <file name="20152-7.jpg" crc="329853514" ref="neko"/>
+    <file name="20152-11.jpg" crc="156104620" ref="neko"/>
+    <file name="20152-15.jpg" crc="5225931" ref="neko"/>
+    <file name="20152-17.jpg" crc="479757498" ref="neko"/>
+    <file name="20152-1560x84.jpg" crc="3958099506" ref="neko"/>
+    <file name="koke512.jpg" crc="3859869338" ref="onnyanoko"/>
+    <file name="koke662.jpg" crc="3776553404" ref="onnyanoko"/>
+    <file name="koke410.jpg" crc="4049714923" ref="onnyanoko"/>
+    <file name="koke352.jpg" crc="4036092112" ref="onnyanoko"/>
+    <file name="koke642.jpg" crc="4004168769" ref="onnyanoko"/>
   </folder>
-  <file name="index.html" crc="233258125" mt="1417762270668" redirect="true"/>
-  <file name="about-me.html" crc="4072676227" mt="1403304839831" redirect="true"/>
-  <file name="news.html" crc="436822843" mt="1417762456197" redirect="true"/>
-  <file name="illustration.html" crc="4248431431" mt="1403520841179" redirect="true"/>
-  <file name="works.html" crc="297384156" mt="1403494014256" redirect="true"/>
-  <file name="contact.html" crc="240381660" mt="1417762717615" redirect="true"/>
-  <file name="kenonobitakokeshi.html" crc="295924439" mt="1417762457673" redirect="true"/>
-  <file name="sonohoka.html" crc="3797351099" mt="1413769128799" redirect="true"/>
-  <file name="neko.html" crc="4157891774" mt="1417762456466" redirect="true"/>
-  <file name="onnyanoko.html" crc="393320195" mt="1413769127179" redirect="true"/>
+  <file name="index.html" crc="264633174" mt="1424914928227" redirect="true"/>
+  <file name="about-me.html" crc="4072676227" mt="1424913865728" redirect="true"/>
+  <file name="news.html" crc="311197750" mt="1424914832093" redirect="true"/>
+  <file name="illustration.html" crc="4248431431" mt="1424913865755" redirect="true"/>
+  <file name="works.html" crc="297384156" mt="1424913865770" redirect="true"/>
+  <file name="contact.html" crc="240381660" mt="1424913865781" redirect="true"/>
+  <file name="kenonobitakokeshi.html" crc="185918786" mt="1424914983288" redirect="true"/>
+  <file name="sonohoka.html" crc="3831839256" mt="1424914977968" redirect="true"/>
+  <file name="neko.html" crc="4148834514" mt="1424914979212" redirect="true"/>
+  <file name="onnyanoko.html" crc="401127319" mt="1424913865838" redirect="true"/>
+  <file name="名称未設定-12.html" crc="93011983" mt="1424914976968" redirect="true"/>
 </manifest>
