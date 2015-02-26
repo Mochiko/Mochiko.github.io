@@ -1,7 +1,7 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4023935739"/>
-    <file name="master_a-master.css" crc="68121951" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me:名称未設定-12"/>
+    <file name="master_a-master.css" crc="68121951" ref="contact:sonohoka:news:neko:index:illustration:onnyanoko:works:kenonobitakokeshi:about-me:2014"/>
     <file name="contact.css" crc="420127713" ref="contact"/>
     <file name="sonohoka.css" crc="249705517" ref="sonohoka"/>
     <file name="news.css" crc="3825965366" ref="news"/>
@@ -12,13 +12,13 @@
     <file name="works.css" crc="4103111237" ref="works"/>
     <file name="kenonobitakokeshi.css" crc="302942016" ref="kenonobitakokeshi"/>
     <file name="about-me.css" crc="95019275" ref="about-me"/>
-    <file name="_____-12.css" crc="83232042" ref="名称未設定-12"/>
+    <file name="2014.css" crc="83232042" ref="2014"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
-    <file name="museutils.js" crc="4291592202" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
-    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:名称未設定-12"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:2014"/>
+    <file name="museutils.js" crc="4291592202" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:2014"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:2014"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:about-me:news:illustration:works:contact:kenonobitakokeshi:sonohoka:neko:onnyanoko:2014"/>
     <file name="pie.js" crc="3827607177" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
     <file name="webpro.js" crc="3903299128" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
     <file name="musewpslideshow.js" crc="138381373" ref="works:kenonobitakokeshi:sonohoka:neko:onnyanoko"/>
@@ -268,7 +268,7 @@
     <file name="983816_1502332676674464_2600606040029067068_n60x80.jpg" crc="3925656924" ref="sonohoka"/>
     <file name="10690035_1514302825477449_4525291740042724669_n60x97.jpg" crc="415614217" ref="sonohoka"/>
     <file name="1526290_1501346200106445_8920627611042839813_n.jpg" crc="4252984347" ref="onnyanoko"/>
-    <file name="201412-6.jpg" crc="197975490" ref="名称未設定-12"/>
+    <file name="201412-6.jpg" crc="197975490" ref="2014"/>
     <file name="201412-2.jpg" crc="3817097841" ref="kenonobitakokeshi"/>
     <file name="201412-3.jpg" crc="266750266" ref="kenonobitakokeshi"/>
     <file name="201412-4.jpg" crc="3897162400" ref="kenonobitakokeshi"/>
@@ -316,7 +316,7 @@
   </folder>
   <file name="index.html" crc="264633174" mt="1424914928227" redirect="true"/>
   <file name="about-me.html" crc="4072676227" mt="1424913865728" redirect="true"/>
-  <file name="news.html" crc="311197750" mt="1424914832093" redirect="true"/>
+  <file name="news.html" crc="114966408" mt="1424915825433" redirect="true"/>
   <file name="illustration.html" crc="4248431431" mt="1424913865755" redirect="true"/>
   <file name="works.html" crc="297384156" mt="1424913865770" redirect="true"/>
   <file name="contact.html" crc="240381660" mt="1424913865781" redirect="true"/>
@@ -324,5 +324,5 @@
   <file name="sonohoka.html" crc="3831839256" mt="1424914977968" redirect="true"/>
   <file name="neko.html" crc="4148834514" mt="1424914979212" redirect="true"/>
   <file name="onnyanoko.html" crc="401127319" mt="1424913865838" redirect="true"/>
-  <file name="名称未設定-12.html" crc="93011983" mt="1424914976968" redirect="true"/>
+  <file name="2014.html" crc="4038815308" mt="1424915826055" redirect="true"/>
 </manifest>
